@@ -1,5 +1,6 @@
 ---
+featured_image: "/images/cover.webp"
 cascade:
-    featured_image: "/images/cover.webp"
+    show_reading_time : true
 description: "Things I learned lately"
 ---
