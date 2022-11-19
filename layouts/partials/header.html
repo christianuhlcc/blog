@@ -1,3 +1,5 @@
 {{ with .OutputFormats.Get "rss" -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
+
+<script src="https://cdn.counter.dev/script.js" data-id="219d6a52-603d-4813-b1e8-3ac567d8019f" data-utcoffset="1"></script>
