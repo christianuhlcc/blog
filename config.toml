@@ -10,8 +10,6 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-
-
 [languages]
   [languages.en]
     title = "Christian Uhl"
@@ -34,6 +32,6 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/chrisuhl"
+  name = "twitter"
+  url = "https://twitter.com/chrisuhl"
 
