@@ -1,12 +1,12 @@
 ---
 title: "On Gratitude"
-date: 2022-11-01T10:35:00+01:00
+date: 2022-11-19T10:35:00+01:00
 draft: false
 ---
 
-As I am jumpstarting this blog, (*and let's see for how long I can keep it up, as many blogs get started, and few get kept running*) I would like to start this project with some thoughts around **Gratitude**. More precisely, my gratitude towards the life I was able to build by working in the tech industry. 
+As I am jumpstarting this blog, I would like to start this project with some thoughts around **Gratitude** towards the life I was able to build by working in the tech industry. *Let's see for how long I can keep it up, as many blogs get started, and few get kept running.*
 
-We, as software professionals, like to complain a lot. Sometimes over very silly things if you need Kubernetes and Microservices to deploy your silly app with no users, sometimes over things that do matter a lot, like how we managed to mess up the inclusion of underrepresented groups so badly. Or how we waste more energy than some major countries to move bits onto a Blockchain. In any way, we (and that includes me) usually complain about everything.
+We, as software professionals, like to complain a lot. Sometimes over very silly things whether you need Kubernetes and Microservices to deploy your silly app with no users, sometimes over things that do matter a lot, like how we managed to mess up the inclusion of underrepresented groups so badly. Or how we waste more energy than some major countries to move bits onto a Blockchain. In any way, we (and that includes me) usually complain about everything.
 
 But I sometimes forget how _nice_ my life is currently, and that can, to a large degree, be attributed to the salary and the working conditions I am benefitting from working in the tech industry. I'll dive a little deeper into both points later, but I want to lay out first where I started in life:
 
@@ -23,9 +23,9 @@ I was born in a small village next to a small town in rural Bavaria, and my pare
 ### 1 The competitive salaries of the tech sector
 
 If you look at some (biased) surveys like [levels.fyi](https://www.levels.fyi/t/software-engineer/locations/germany) you see that 2022 Salaries mention a median of 83.385€ and a 75th percentile of 103.000€. That might be biased a little as levels.fyi is more frequented by big-tech employees, not people working in software for non-software organizations. [Statista](https://de.statista.com/statistik/daten/studie/204507/umfrage/brutto-jahresverdienst-von-softwareentwicklern-in-deutschland/
-) thinks different, and I think this difference can be well explained by [this post](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/) about the trimodal nature of tech salaries. But still, In summary, I think working in tech pays everyone involved quite well.
+) thinks different, and I think this difference can be well explained by [this post](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/) about the trimodal nature of tech salaries. But still, In summary, I think working in tech pays everyone involved quite well. At least for white males like me.
 
-I am doing personally very well after a good decade in tech - a Senior Engineering Manager Salary is a bit better than a median Senior Engineering Salary, but even before the last 2 or 3 promotions, I could already live differently from how my parents lived: I always have enough fuck-you-money to feel completely free. If my job annoys me, I can walk out on the spot because I have enough savings to keep everything running for a year+. This also enabled me to -just now- take 7 months of parental leave for my child without getting the family into any trouble. This feeling of financial freedom is unparalleled, as I remember my parents worrying and arguing about money a lot. And even more, I can live in a house - something I never thought was possible in the economic realities of Germany in the 2020s.
+I am doing personally very well after a good decade in tech - a Senior Engineering Manager Salary is a bit better than a median Senior Engineering Salary, but even before the last 2 or 3 promotions, I could already live differently from how my parents lived: I always have enough fuck-you-money to feel completely free. If my job annoys me, I can walk out on the spot because I have enough savings to keep everything running for a year+. I didn't know about the concept of "fuck you! Money" before going into tech, but I do find it very powerful. This also enabled me to -just now- take 7 months of parental leave for my child without getting the family into any trouble. This feeling of financial freedom is unparalleled, as I remember my parents worrying and arguing about money a lot. And even more, I can live in a house - something I never thought was possible in the economic realities of Germany in the 2020s in a major city.
 
 Seems to me that money doesn't buy happiness, but it makes most reasons for unhappiness disappear. To be happy is a lot easier when you don't have to worry about your washing machine breaking.
 
