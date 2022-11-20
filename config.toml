@@ -38,7 +38,7 @@ enableRobotsTXT = true
     url = "https://mastodon.social/@christianuhl"
   [[params.ananke_socials]]
     name = "rss"
-    url = "index.xml"
+    url = "/index.xml"
   [[params.ananke_socials]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/christian-uhl-957a61151"
