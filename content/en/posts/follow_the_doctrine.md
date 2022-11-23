@@ -1,14 +1,14 @@
 ---
 title: "Follow the doctrine, bring your own tactics"
-date: 2022-11-20T10:35:00+01:00
-draft: true
+date: 2022-11-23T22:35:00+01:00
+draft: false
 ---
 
 This is one of my larger learnings of the last year(s) as an Engineering Manager and as a Manager of other Engineering Managers. It's also something I had to learn the hard-ish way as I did it wrong in my first leadership role, and watched peers struggle hard in my current role. My default brain setting is "anarchism" and I have a hard time following the rules, whatever they may be, so this one is a particularly hard challenge for me. This article is about following "Doctrine", avoiding the "Problem of the week", and distinguishing between these two. 
 
 ## Follow doctrine
 
-I don't particularly like the term itself, as it sounds quite militaristic, but I don't have a better one yet. What I mean by that (and I borrowed it from [Simon Wardley](https://www.wardleymaps.com/doctrine), is that at any given time, any company has a few fundamental truths that it operates on to move forward. One of them (as I experienced it personally) could be ***hypergrowth***, but other examples might be "finding product market fit", "becoming profitable" or "build things based on User Research". If there is none or few, I would assume your company is just struggling along with the wind, and you should probably look for another place to work. The same goes for rapidly switching "fundamental truths" before any doctrine has yielded any results - a sure sign that the top leadership doesn't have its act together. A very well-run organization will frequently communicate and cautiously adapt its doctrine
+I don't particularly like the term itself, as it sounds quite militaristic, but I don't have a better one yet. What I mean by that (and I borrowed it from [Simon Wardley](https://www.wardleymaps.com/doctrine), but I am not focusing on the universal, but the individual underlying principles of working in a company), is that at any given time, any company has a few fundamental truths that it operates on to move forward. One of them (as I experienced it personally) could be ***hypergrowth***, but other examples might be "finding product market fit", "becoming profitable" or "building things based on User Research". If there is none or few, I would assume your company is just struggling along with the wind, and you should probably look for another place to work. The same goes for rapidly switching "fundamental truths" before any doctrine has yielded any results - a sure sign that the top leadership doesn't have its act together. A very well-run organization will frequently communicate and cautiously adapt its doctrine
 
 If you are finding yourself in that situation of hypergrowth, you are supposed to grow your teams and headcount as fast as you can, with the goal of "achieving maximum impact for the company". That means thinking about "If I had twice the teams and people, what else could I be delivering additionally? Or doing in parallel? Or unblock with raw force?". You of course don't want to fall into the build trap of just generating meaningless output with no outcomes. 
 
