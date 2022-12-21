@@ -2,9 +2,13 @@
 title: "On Gratitude"
 date: 2022-11-19T10:35:00+01:00
 draft: false
+featured_image: "/images/gratitude.webp"
 ---
 
 As I am jumpstarting this blog, I would like to start this project with some thoughts around **Gratitude** towards the life I was able to build by working in the tech industry. *Let's see for how long I can keep it up, as many blogs get started, and few get kept running.*
+
+
+{{< figure src="/blog/images/gratitude.webp" attr="Photo by [lilartsy](https://unsplash.com/@lilartsy?utm_source=unsplash)" alt="hand doing the ok gesture">}}
 
 We, as software professionals, like to complain a lot. Sometimes over very silly things whether you need Kubernetes and Microservices to deploy your silly app with no users, sometimes over things that do matter a lot, like how we managed to mess up the inclusion of underrepresented groups so badly. Or how we waste more energy than some major countries to move bits onto a Blockchain. In any way, we (and that includes me) usually complain about everything.
 
