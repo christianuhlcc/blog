@@ -84,6 +84,19 @@ This will also allow you to see a trajectory of how your architecture evolves - 
 
 I would also add a section for "Security Incidents" in your post-mortem template to make sure that the security dimension, if appropriate, is looked at correctly.
 
+## Add Mandatory fields and insights to learn at scale
+
+I would suggest having (and enforcing) machine-parsable metrics in your document template so that you can run analyses on your history of outages. 
+
+Good examples would be 
+* MTTR (Mean time to recovery)
+* MTTD (Mean time to detect),
+* Origin of fault (code change, infrastructure failure, external dependency failure)
+* Type of resolution (rollback, fix forward, scaling infrastructure)
+* Detection (autodetected, internally noticed or noticed by the customer first?) 
+
+I remember the effort I had when I made a spreadsheet analysis of post-mortems to advocate for canary releases (which we ultimately did), and that was before we had these metrics in the template. Now it would be way easier to get the same insight. The same goes for a chart that shows the development of MTTR over time, to track if you're improving. Thanks, [Martin](https://www.linkedin.com/in/martin-lechner-01b99056/) for the suggestion!
+
 ## Additional tips I found useful for good post-mortems:
 
 * Start the document right away during the outage, and post raw data, links and screenshots there as soon as you have them, it will be a lot easier than searching for it later, and it helps to onboard late joiners to the discussion. This also means you should use a collaborative editor like google docs or confluence.
@@ -92,3 +105,5 @@ I would also add a section for "Security Incidents" in your post-mortem template
 * Prepare and tighten the document before the synchronous meeting, so that you don't waste time struggling with your editor and can focus on the content instead. Most of the investigation about what went wrong and what was impacted can be researched by one person beforehand. The post-mortem meeting should focus on the way forward, and how to make your system more resilient. That's where the value lies, and where you need the collective creativity and discussion of the group. A temporary chat channel works well for this, and it's the responsibility of the moderator to keep the discussion flowing here
 Scrutinize the action items as much as possible, this is where you need to 
 * Present the post-mortems to the whole engineering group - Don't expect that all lessons stick, but I remember a few post-mortems being referenced in my teams that they didn't run themselves. Knowledge spreads and sometimes prevents things you have no automated guardrails against.
+
+
