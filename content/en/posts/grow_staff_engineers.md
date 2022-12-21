@@ -2,9 +2,12 @@
 title: "How to grow staff engineers"
 date: 2022-11-29T15:35:00+01:00
 draft: false
+featured_image: "/images/grow.webp"
 ---
 
 Let's discuss how Engineering Managers can support their people on the journey toward the Staff Engineer Role. Why should we as EMs care about that? Of course, their success is your success and having staff engineers in your group lifts you up as well. But more important is that having one or more staff engineers in your group will allow you to kick in a few metaphorical technical doors toward a larger organizational impact. These are the people that can solve big and tricky problems for you. Ultimately, without them, you won't grow into a more senior manager role. I assume most "great" engineering organizations make it a career progression requirement for EMs anyway. But the growth path of someone from mid-level individual contributor towards senior is different from the growth towards staff, and we EMs get very little guidance on that.
+
+{{< figure src="/blog/images/grow.webp" attr="Photo by [Daniel Öberg](https://unsplash.com/@artic_studios)" alt="3 green leaves on a plate">}}
 
 As a disclaimer, I have successfully supported people in a promotion to the "Lead Engineer" role, which in Personio is an intermediate step between Senior and Staff, and might map directly to Staff in other career frameworks. 
 
