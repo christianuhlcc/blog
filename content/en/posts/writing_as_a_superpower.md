@@ -2,10 +2,13 @@
 title: "Writing is your Superpower"
 date: 2022-12-13T10:35:00+01:00
 draft: false
+featured_image: "/images/writing.webp"
 ---
 
 We all can benefit from being proficient at technical writing - no matter if we are Software Engineers, Product Managers, Engineering Managers or Designers. In the last decade of working in tech, I found one of the most remarkable shifts in how we work to be the switch to remote work. Especially after the pandemic and the hyperinflation of Video calls, our mode of work shifted a lot towards more asynchronous communication. This includes more Emails, chat messages, technical documents and project plans. 
 
+{{< figure src="/blog/images/writing.webp" attr="Photo by [Eugene Chystiakov](https://unsplash.com/@eugenechystiakov)" alt="person writing on paper">}}
+  
 Your writing will influence how you are perceived by others and how well you can influence the organization you're working in.
 
 ### Writing levels the field
