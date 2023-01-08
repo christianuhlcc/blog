@@ -3,7 +3,7 @@ title: "On Gratitude"
 date: 2022-11-19T10:35:00+01:00
 draft: false
 featured_image: "/images/gratitude.webp"
-images: ["/images/gratitude.webp"]
+images: ["images/gratitude.webp"]
 ---
 
 As I am jumpstarting this blog, I would like to start this project with some thoughts around **Gratitude** towards the life I was able to build by working in the tech industry. *Let's see for how long I can keep it up, as many blogs get started, and few get kept running.*
