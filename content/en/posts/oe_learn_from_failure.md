@@ -3,7 +3,7 @@ title: "Operational Excellence: Learning from failure"
 date: 2022-12-21T10:35:00+01:00
 draft: false
 featured_image: "/images/fail.webp"
-images: ["/images/fail.webp"]
+images: ["images/fail.webp"]
 tags: [Operational Excellence]
 ---
 

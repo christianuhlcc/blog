@@ -1,9 +1,9 @@
 ---
 title: "Operational Excellence: Limit Blast Radius"
-date: 2023-01-05T10:35:00+01:00
-draft: true
+date: 2023-01-08T23:35:00+01:00
+draft: false
 featured_image: "/images/blast.webp"
-images: ["/images/blast.webp"]
+images: ["images/blast.jpg"]
 tags: [Operational Excellence]
 toc: true
 ---
@@ -11,6 +11,8 @@ toc: true
 Trying to prevent all failures is a foolish endeavor. This doesn't mean you're not supposed to prevent and reduce failures as much as you can, but limiting the impact of failures turned out to be the most impactful strategy I found to improve Operational Excellence so far. In this article, we'll explore some strategies to limit the pain of outages in your software system. 
 
 The metaphor of "blast radius" describes how _far_ a problem in your system travels. In poorly resilient distributed systems, failures propagate and take usually the whole thing down with it.[^1] There are multiple dimensions of "radius" that you can tackle, and we'll take a look at them through this article:
+
+> Everything fails, all the time. – Werner Vogels
 
 We can limit problems to:
 * a subset of your application - only one use-case will fail, others will keep working
@@ -86,14 +88,38 @@ For pretty big config changes a "playground" environment can be useful though, t
 
 So what does this leave us? 
 
-I believe that ***canary deployments*** are also a very useful tool for configuration changes when your configuration is applied as a step in your CI/CD pipeline. Unfortunately this will probably prolong your rollout period, as config changes often don't blow up right away.
+I believe that ***canary deployments*** are also a very useful tool for configuration changes when your configuration is applied as a step in your CI/CD pipeline. Unfortunately, this will probably prolong your rollout period, as config changes often don't blow up right away.
 
-Besides that, the best lever I found is to improve Time to Detection and Time to Restore for such failures: Invest in a great monitoring and observability tooling, keep the noise down and when a faulty change get's pushed out
-
+Besides that, the best lever I found is to improve Time to Detection and Time to Restore for such failures: Invest in great monitoring and observability tooling: Keep the noise down and when a faulty change gets pushed out, you will notice right away. Then you can quickly correct and limit the temporal impact of the problem.
 
 ## 3 Dependency Failures
 
-#### Resiliency Patterns between Services
+If your system grows and becomes more of a distributed problem, usually your rate of incidents grows: Unfortunately the uptimes of multiple systems multiply: 
+
+Imagine you have two dependent Services A and B. If your service A has an availability of 99% and Service B has also an availability of 99%, the resulting availability is ```0,99*0,99=0,98```, so your complete system has only a 98% Availability. This is a very simple example indeed, but it drives home the point that if you have a distributed system with a high number of components in there, and if your architecture requires everything to be working all the time, you'll have a very bad time.
+
+A lot has been written about proper resiliency patterns, and I can only scratch the surface here with some introductory teasers about patterns useful to limit the blast radius of outages. To prevent failures from cascading, you want to use patterns that try to ***isolate*** concerns. If you want to learn more, you can start with [this slideshow](https://www.slideshare.net/ufried/resilience-reloaded-more-resilience-patterns)
+
+### Fallbacks
+
+If you embrace failure when consuming anything from a dependent service, the easiest thing to do is find a fallback response if the service is not available. For (a simple) example, if you need a profile picture from an image service, you could fall back to a generic avatar that you have stored yourself. 
+
+### Timeouts
+
+Simple, but often forgotten to implement: If you call external resources over the wire, make sure to stop waiting at some point and return a graceful degradation if you don't get an answer in time. 
+
+### Bulkheads
+
+Borrowed from the idea of hulls for ships, you try to allocate only a limited part of the overall system resources to a certain part of your service - like a fixed thread pool. If one of your downstream dependencies acts up an a malicious way, it can't take your whole service down, therefore limiting the blast.
+
+### Prefer asyncronous communication
+
+Even though not fitting for every use case, when it's available to you it's quite helpful. If you can drop a message to another Unit in your system without waiting for approval, or reacting to an answer whenever it happens to be available, you are a lot less likely to be disturbed. There is a reason why Actor-based systems are amongst the most resilient applications.
+
+### Retries, exponential backoffs and Circuit Breakers
+
+Retries are again nice and simple but often forgotten: If your downstream dependency breaks, just try again. Sometimes, you'll get a reasonable answer next time around. To avoid avalanche-like problems though I would suggest to always combining retries with exponential backoffs, and if you really want to be nice to your downstream dependency, with circuit breakers. This way you'll improve your chance of rescuing your request (and not having a problem in the first place), without taking down the whole ship in the attempt to do so.
+
 
 ## 4 Infrastructure Failures
 
@@ -101,13 +127,12 @@ So your whole data center just went down, because _someone_ was not paying atten
 
 This is one of the harder problems to avoid as other people are involved here, and usually, a costly one to prevent. If you can, running hot standbys in multiple Datacenters can help you here, but this has severe architectural implications. It's up to you to make a financial calculation if it's worth it to you. Speaking from a European perspective though - it makes sense to not run things in the one region that your cloud provider uses to beta test new features. I would always opt for more boring, but also more stable regions. 
 
-But there will be smaller infrastructure failures - Bad machines, bad disks and bad network links will appear if you just run a large application long enough. I think your best bet is to treat them as 
+But there will be smaller infrastructure failures - Bad machines, bad disks and bad network links will appear if you just run a large application long enough. I think your best bet is to treat them the same way as dependency failures from point 3 - by introducing resilience patterns into your stack. 
 
+## How to know you are ready?
 
+If you are already working against a stream of outages, you should hopefully see positive signals and fewer outages over time. But all of that could be a coincidence, so how do you know that the work outlined in this article has paid off? The answer is chaos engineering. The best way of knowing that your system is stable is by poking (controlled) holes into it, and watching how it behaves. The best-known actor on the block is surely the [Chaos Monkey](https://github.com/netflix/chaosmonkey) and the rest of the simian army from Netflix, who were pioneers on this area. By now there is a lot more tooling out there like [Steadybit](https://steadybit.com/) and many more. I think reading [Chaos Engineering](https://www.amazon.de/-/en/Casey-Rosenthal/dp/1492043869) might help as well
 
-
-
-### Limit affected users
 
 
 [^1]: It's always helpful to remind yourself of the 8 fallacies of distributed computing: https://web.archive.org/web/20171107014323/http://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/
