@@ -3,6 +3,7 @@ title: "Follow the doctrine, bring your own tactics"
 date: 2022-11-23T22:35:00+01:00
 draft: false
 featured_image: "/images/doctrine.webp"
+images: ["/images/doctrine.webp"]
 ---
 
 This is one of my larger learnings of the last year(s) as an Engineering Manager and as a Manager of other Engineering Managers. It's also something I had to learn the hard-ish way as I did it wrong in my first leadership role, and watched peers struggle hard in my current role. My default brain setting is "anarchism" and I have a hard time following the rules, whatever they may be, so this one is a particularly hard challenge for me. This article is about following "Doctrine", avoiding the "Problem of the week", and distinguishing between these two. 

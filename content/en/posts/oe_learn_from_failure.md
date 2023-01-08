@@ -3,10 +3,11 @@ title: "Operational Excellence: Learning from failure"
 date: 2022-12-21T10:35:00+01:00
 draft: false
 featured_image: "/images/fail.webp"
+images: ["/images/fail.webp"]
 tags: [Operational Excellence]
 ---
 
-Failure is inevitable. But every failure is an opportunity to learn, and to harden your system against more catastrophic failures later down the road. Blameless post-mortems are a very good tool to achieve this and have been adopted quite widely in the industry already. But of course the details and diligence of this process varies a lot, so I've taken a stab at putting together all I know about how post-mortems can be great.
+Failure is inevitable. But every failure is an opportunity to learn, and to harden your system against more catastrophic failures later down the road. Blameless post-mortems are a very good tool to achieve this and have been adopted quite widely in the industry already. But of course, the details and diligence of this process vary a lot, so I've taken a stab at putting together all I know about how post-mortems can be great.
 
 {{< figure src="/blog/images/fail.webp" attr="Photo by [Ian Kim](https://unsplash.com/@hewittlv)" alt="picture of a wall with a neon sign saying -people fail forward to success-">}}
 
