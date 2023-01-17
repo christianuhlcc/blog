@@ -1,7 +1,7 @@
 ---
 title: "Operational Excellence: Limit Blast Radius"
 date: 2023-01-09T14:00:00+01:00
-draft: false
+draft: false    
 featured_image: "/images/blast.webp"
 images: ["images/preview/blast.jpg"]
 tags: [Operational Excellence]

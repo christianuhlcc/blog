@@ -24,7 +24,7 @@ As a simple example, if your intern manages to delete the production database, t
 In a nutshell, a post-mortem investigation happens after the problem, where you create a ***document*** with the rough following content:
 
 * ***What*** exactly went wrong:
-Describe the problem in understandable words, for easier aggregation and discoverability. This should also contain the impact of the problem, and lots of metadata for classification and analytics. A timeline of actions and evidences helps a lot, starting with maybe a faulty commit or observed behavior.
+Describe the problem in understandable words, for easier aggregation and discoverability. This should also contain the impact of the problem, and lots of metadata for classification and analytics. A timeline of actions and evidence helps a lot, starting with maybe a faulty commit or observed behavior.
 * The ***impact*** of the problem:
 To understand the severity, you need to understand how many of your customers were impacted in what way.  How many customers were impacted? What data was lost? How many requests failed? What was the p99 latency of requests during the time? If you treat every problem with the same panic brush, people will rapidly get tired of your process, and you'll lose out on valuable learnings.
 * The ***cause*** of the error:
@@ -65,7 +65,7 @@ Somebody who knows what a good post-mortem looks like, and can hold the group ac
 
 ## Running post-mortems at scale
 
-Another support structure that can work well is to have an aggregate format (like an operational excellnce forum) in your org units, where team leaders participate. These meetings can be blameful, and should focus on:
+Another support structure that can work well is to have an aggregate format (like an operational excellence forum) in your org units, where team leaders participate. These meetings can be blameful, and should focus on:
 * Timeliness execution of action items and learnings
 * Process improvements based on aggregate learnings from many post-mortems
 * Enforces a high-quality bar of post-mortems
@@ -74,7 +74,7 @@ Another support structure that can work well is to have an aggregate format (lik
 
 While the post-mortem process is helpful, and it's always great to learn where you can, a good post-mortem process is also expensive. Additionally, there's a natural tendency to hold leaders accountable for the raw number of incidents in their groups, which incentivizes them to not classify things as "needs a post-mortem".
 
-You can avoid unproductive discussions during an outage by having a clear taxonomy of problems. For example you could group things into Severity classes:
+You can avoid unproductive discussions during an outage by having a clear taxonomy of problems. For example, you could group things into Severity classes:
 
 * ***Sev 1:*** All of production is down, no customer can access anything, data loss happens or you have a security incident.
 * ***Sev 2:*** A major flow or functionality is impacted for all customers or performance has significantly degraded.

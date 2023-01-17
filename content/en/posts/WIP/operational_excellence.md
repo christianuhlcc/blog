@@ -53,47 +53,7 @@ Especially for multi-tenant SAAS systems, I found [synthetic tests](https://www.
 
 So now you know we have a problem on our hands, how do we go on about fixing it?
 
-### Learn from your Failures via blameless post-mortems
-
-True Blameless Post-Mortems are a work of art, but once you get them right habitually they become a powerful tool for improvement and learning. This might be a full-featured blog post later on just to dig into post-mortems. The core idea is that when a problem occurs, it was not the fault of the human who did the wrong thing - it was the fault of the system for allowing the action to happen. 
-
-As a simple example, if your intern manages to delete the production database, that's not the fault of the intern. That's the fault of your setup for giving them the right to run `DROP DATABASE` on prod in the first place.
-
-In a nutshell, a post-mortem investigation happens after the problem, where you create a document with the rough following content:
-
-* What exactly went wrong:
-Describe the problem in understandable words, for easier aggregation and discoverability. This should also contain the impact of the problem, and lots of metadata for classification and analytics. How many customers were impacted? What data was lost? How many requests failed? What was the p99 latency of requests during the time?
-* The cause of the error:
-The word root cause has fallen a bit out of fashion, as the true root cause for most failures is something you can't do much about, like ... captialism. But you also can't stop at the surface of the problem either. Using the 5-Why technique can be helpful here
-* The actions forward:
-There should be clear and actionable items as the outcome of the post-mortem analysis. They need a clearly assigned owner who is accountable for bringing the action item to the team and clearing it.
-
-If you can, automatically collecting the action items to have an overview page about what's still open was very helpful for us, to make sure we cover enough ground. A really bad signal is when you have two outages
-
-
-But what I find very hard about post-mortems is that it's ***hard*** to write good action items, and few people can teach you how to do that. If you throw a random set of engineers into a post-mortem meeting, chances are your action items will just prevent the very exact problem from happening again in the exact same circumstances, or they will propose the grad refactoring of your stack that you won't do ever. "Rewrite it in Rust" is a joke, not a good action item.
-
-#### Roles in the post-mortem meeting
-
-But how do you get good at them? I think a good post-mortem meeting has two dedicated roles that should be present in addition to the relevant engineers for the problem:
-
-1. Moderator
-
-I used to do this role a lot - Discussions are easy to run too deep, and you 
-might optimize too much on describing or researching the topic. Somebody who doesn't have to contribute can focus on typing, screen sharing and timekeeping. I admit it's sometimes hard not to dive into tech myself, but I always had great peers who could do that job better than I could have.
-
-2. Advisor / Bar Raiser
-
-Somebody who knows what a good post-mortem looks like, and can hold the group accountable for high-quality analysis. I believe that during writing, it's a lot easier to add constructive criticism than afterward. We have a "critique" aspect when we presented the post-mortem to the whole engineering group, but it feels unconstructive and blame-y. I would love to introduce that role to our post-mortems, to improve quality without making people defensive. This _can_ be done by the moderator, but I wasn't particularly good at that.
-
-
-#### Additional tips I found useful for good post-mortems:
-
-* Start the document right away during the outage, and post raw data, links and screenshots there as soon as you have them, it will be a lot easier than searching for it later, and it helps to onboard late joiners to the discussion. Which also means you should use a collaborative editor like google docs or confluence.
-* Use screenshots where possible as many references (logs, your APM system) might get cleaned up after a while and that data is gone. Pictures of charts are always useful.
-* Prepare and tighten the document before the synchronous meeting, so that you don't waste time struggling with your editor and can focus on the content instead. Most of the investigation about what went wrong and what was impacted can be researched by one person beforehand. The post-mortem meeting should focus on the way forward, and how to make your system more resilient. That's where the value lies, and where you need the collective creativity and discussion of the group.
-Scrutinize the action items as much as possible, this is where you need to 
-* Present the post-mortems to the whole engineering body - Don't expect that all lessons stick, but I remember a few post-mortems being referenced in my teams that they didn't run themselves. Knowledge spreads and sometimes prevents things you have no automated guardrails against.
+--- see this post on post mortems ---
 
 ### Architect your system to limit the blast radius of problems
 
