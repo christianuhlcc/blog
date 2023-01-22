@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Christian Uhl"
-  favicon = ""
+  favicon = "favicon.ico"
   site_logo = ""
   description = "Christian's writings"
   body_classes = "avenir bg-near-white"
