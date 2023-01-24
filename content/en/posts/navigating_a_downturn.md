@@ -1,7 +1,7 @@
 ---
 title: "Navigating the economic downturn as an Engineering Manager"
-date: 2023-01-19T10:35:00+01:00
-draft: true
+date: 2023-01-21T13:35:00+01:00
+draft: false
 featured_image: "/images/downturn.webp"
 images: ["images/preview/downturn.jpg"]
 toc: true
@@ -23,7 +23,7 @@ Sundar Pichai just recently said "Scarcity breeds clarity.": In times of plenty,
  
 And if not, work hard to cut them, postpone them or reduce your engagement. Your Product Manager is again your best friend in this situation, make sure you work closely together to find the right opportunities. You very much want your team to be on the positive side of the spreadsheet when the next round of budget reduction rolls around. If you have no topic, I would strongly suggest pausing some of your current work and supporting other teams that have such a thing. 
 
-Maybe it's also time to ship things "dirtier" than you used to do - not completely neglecting quality, but expressing some sense of urgency upwards will reflect positively on your team. Carefully taking on tech debt where it makes sense (and is known to everyone) can be useful.
+Maybe it's also time to ship things "dirtier" or more incrementally than you used to do - not completely neglecting quality, but expressing some sense of urgency upwards will reflect positively on your team. Carefully taking on tech debt where it makes sense (and is known to everyone) can be useful.
 
 ### Look at your spending
 
@@ -35,7 +35,7 @@ No team can ship at high velocity if they don't feel safe[^1]. And in turbulent 
 
 ### Spread Knowledge
 
-The smaller teams become, the more critical islands of knowledge get. My highest-performing teams were always those were everyone could work on every corner of the product, and work could swing in any direction we needed. If you can see that your work iteration needs to be fluffed up so that everyone has something to do, instead of all working on the most important thing, you know where to start.[^2]
+The smaller teams become, the more critical islands of knowledge get. My highest-performing teams were always those where everyone could work on every corner of the product, and work could swing in any direction we needed. If you can see that your work iteration needs to be fluffed up so that everyone has something to do, instead of all working on the most important thing, you know where to start.[^2] Beware that it might happen that some of your high performers get reassigned to other projects, and your team must not stall completely when that happens.
 
 ### Fight bikeshedding
 
@@ -43,7 +43,7 @@ Besides the aforementioned psychological safety, this does not mean that your te
 
 ## Be there for your team
 
-A lot of people will adjust a lot of processes and rules now in your organization, and poor change management will hit left and right. Now combine that with the ever-growing uncertainty, and some of your team members might be mentally holding on for dear life. You are a leader, go act like it and be there for them. Make sure they can understand and put the latest organizational changes in the proper context. Go do extra loops in your 1:1s and dig into that topic. I can recommend [this collection of ideas](https://larahogan.me/resources/resilience/) from Lara Hogan
+A lot of people will adjust a lot of processes and rules now in your organization, and poor change management will hit left and right. Now combine that with the ever-growing uncertainty, and some of your team members might be mentally holding on for dear life. You are a leader, be there for them and keep explaining what's happening. Make sure they can understand and put the latest organizational changes in the proper context. Go do extra loops in your 1:1s and dig into that topic. I can recommend [this collection of ideas](https://larahogan.me/resources/resilience/) from Lara Hogan
 
 You might feel uneasy yourself, but your team is not the place to discuss this - use your peers and support network for your own worries, and be sure to radiate all the (appropriate) confidence and positivity you can muster up. But also make sure you have your own "oxygen mask" on first and are taking care of your own emotional well-being - otherwise, you won't be able to help your team.
 
