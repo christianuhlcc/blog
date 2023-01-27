@@ -130,6 +130,6 @@ Software Architecture isn't a purely technical concern, architecture exists to s
 Here's where I think one last "Architect" needs to stay: The technical executive. This would be a role equal to or comparable to the CTO: Somebody who is deeply involved in the business strategy (and knows things that aren't fully public to all employees yet). This person can and must describe the needs and demands of the software, and meaningful software architecture can be derived from this. The CTO can but doesn't have to, describe the larger outlines of the System's Architecture, but that can also be filled out by the communities of practice.  
 
 
-[^1]: I think this term originates from [Evolutionary Architectures](https://evolutionaryarchitecture.com/), but I am not fully sure
+[^1]: I think this term originates from [Evolutionary Architectures](https://evolutionaryarchitecture.com/), but I am not fully sure - ***Update*** [Victor](https://hachyderm.io/@kontrafiktion/109706081734787670) points out it's from [Martin Fowler](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 [^2]: I am not calling it micro architecture by intention as that term is usually used for CPU architectures, which is a way different level of "micro"
 [^3]: There are people that try to define the idea of a "coding architect" to mitigate many points I am raising in this article, but polemically speaking I think that's mostly Architects that try to rescue their job for a little longer :-)
