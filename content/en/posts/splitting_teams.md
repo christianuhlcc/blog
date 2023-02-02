@@ -17,7 +17,7 @@ This article is mostly about the human aspect of the team split and less about t
 
 ## Teams are immutable
 
-Before we start with really anything about the details, let's remind ourselves that ***teams are immutable***: It happens when you add or remove people from a team, but especially when you split a team, you end up with two completely fresh teams. That also means you will need to go through the team construction process and the 4 stages (of Tuckman) again, so you need to invest into teambuilding and it will take a while until everything is productive again. 
+Before we start with really anything about the details, let's remind ourselves that ***teams are immutable***: It happens when you add or remove people from a team, but especially when you split a team, you end up with two completely fresh teams. That also means you will need to go through the team construction process and the 4 stages (of [Tuckman](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)) again, so you need to invest into teambuilding and it will take a while until everything is productive again. 
 
 _Before it gets faster, it will first get slower._
 
@@ -83,7 +83,7 @@ I think it's your, the leader's, job to be the "publicist" of the news: The rest
 
 ### Invest in Team Building
 
-The new teams will be going through new constitution phases. You are probably familiar with Tuckman's 4 Phases or other models that help you understand the processes. The important part is that just because you had a fantastic team before does not mean you will get two smaller, well-running teams for free. You need to put in the work again, twice, to achieve high-performing teams. 
+The new teams will be going through new constitution phases. You are probably familiar with [Tuckman's 4 Stages](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) or other models that help you understand the processes. The important part is that just because you had a fantastic team before does not mean you will get two smaller, well-running teams for free. You need to put in the work again, twice, to achieve high-performing teams. 
 
 ### Understand expectations and realities
 
