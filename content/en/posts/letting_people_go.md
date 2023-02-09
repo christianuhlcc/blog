@@ -7,7 +7,7 @@ featured_image: "/images/let_go.webp"
 images: ["images/preview/let_go.jpg"]
 ---
 
-I loathe letting people go. Many things bring pleasure in the work of an Engineering Manager, but some aspects are horrible, but they have to be done, and they have to be done by us. I was fortunate enough in my career that I had to do it very rarely, but enough to have an opinion on it by now. Let's explore why being able to fire people is an important tool in the toolbox of Engineering Managers for the health of the organization, and how to best deal with the emotional outfall when using it. This article doesn't talk about layoffs, but the very distinct termination of a single Employee.
+I loathe letting people go. Many things bring pleasure in the work of an Engineering Manager, but some aspects are horrible, but they have to be done, and they have to be done by us. I was fortunate enough in my career that I had to do it very rarely, but enough to have an opinion on it by now. In a way, this is the guidance I wish I had myself for the first time.  Let's explore why being able to fire people is an important tool in the toolbox of Engineering Managers for the health of the organization, and how to best deal with the emotional outfall when using it. This article doesn't talk about layoffs, but the very distinct termination of a single Employee.
 
 > ***Disclaimer***: I am not a lawyer, and labor laws in Germany (and Europe) are strict and protective of Employees, for a very good reason. If you have to let someone go, please loop in your HR Department as soon as you can, they can help you getting it over smooth and legally compliant as soon as possible. You don't want to end up in labor court, no matter your net worth.
 
