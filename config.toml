@@ -17,7 +17,7 @@ enableRobotsTXT = true
     contentDir = "content/en"
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
 
