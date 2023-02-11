@@ -19,7 +19,7 @@ _Is it kind to fire people?_
 
 I very much agree with this statement. We as managers are not just responsible for just one single person, but a whole group. Sometimes it's the kind thing for the affected individual. Sometimes it's for the greater good of the group. Both ways, it might be necessary. And keeping someone around who won't be able to dig themselves out whatever hole they have gotten themselves into is [ruinous empathy](https://www.radicalcandor.com/faq/what-is-ruinous-empathy/)
 
-Being able to fire people will also allow you to ***hire*** in the first place: It enables you to bring in "bets" into the team - people that are maybe totally awesome, but there is some risk that they are not. If you don't have that option, because you can never get rid of them again, you will default to only hiring "safe" bets - and your whole team will be straight white dudes named Chad. 
+Being able to fire people will also allow you to ***hire*** in the first place: It enables you to bring in "bets" into the team - people that are maybe totally awesome, but there is some risk that they are not. If you don't have that option, because you can never get rid of them again, you will default to only hiring "safe" bets. Even worse, because of the [similarity bias](https://www.linkedin.com/pulse/similarity-bias-ebin-john-poovathany/) that we all have, everyone in your team will look like you and have a similar background. [^4]
 
 Whenever it is necessary, it's our duty not just to do it, but to own the decision. If we don't, we are "just" a coach to our group, or worse, a glorified cheerleader. In times of crisis where someone has to be removed from the group, the team will look at you to go through with it, or you will lose their trust as a leader (nicely put into words in this wonderful post about [they like you too much](https://randsinrepose.com/archives/the-coach-and-the-fixer/)). 
 
@@ -108,3 +108,5 @@ It is also a good time to re-asses your hiring funnel, to see if you can add som
 [^2]: if you only knew how little authority I wield you wouldn't do that, but sob with me.
 
 [^3]: look at the [Phoenix Project](https://www.amazon.de/Projekt-Phoenix-Roman-DevOps-Erfolgsstrategien/dp/395875175X) for a nice example of saving someone who is on track to become the brilliant jerk
+
+[^4]: In a previous version of this article I had a misfiring joke about everyone being called Chad here that didn't transport what I was trying to say. Thanks to Nils for giving me feedback!
