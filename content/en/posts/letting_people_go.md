@@ -13,7 +13,7 @@ I loathe letting people go. Many things bring pleasure in the work of an Enginee
 
 {{< figure src="/blog/images/let_go.webp" attr="Photo by [Donnie Rosie](https://unsplash.com/@drosie)" alt="A cannon pointed at your face">}}
 
-This is maybe some addition to [Samir's](https://monospacedmonologues.com/2022/10/maybe-just-maybe/) post](https://monospacedmonologues.com/2022/10/maybe-just-maybe/) about the question: 
+This is maybe some addition to [Samir's](https://monospacedmonologues.com/2022/10/maybe-just-maybe/) post about the question: 
 
 _Is it kind to fire people?_
 
