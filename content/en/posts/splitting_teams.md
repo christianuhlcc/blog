@@ -5,6 +5,7 @@ draft: false
 toc: true
 featured_image: "/images/split.webp"
 images: ["images/preview/split.jpg"]
+tags: [Hypergrowth]
 ---
 
 When I need to grow my engineering organization, I often prefer growing and splitting teams over bootstrapping completely new teams. Even though growing teams is slower than just bootstrapping on the green field, I still go for it as you can spread and transfer the most domain and tribal knowledge into both new teams, and keep your existing culture largely constant. During the hypergrowth of Personio, I was fortunate enough to participate in multiple teamsplit events, and I collected my learnings and what went well in this article. 
