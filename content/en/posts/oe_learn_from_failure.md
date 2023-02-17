@@ -13,6 +13,8 @@ Failure is inevitable. But every failure is an opportunity to learn, and to hard
 
 > This article is the first part of a series around [_operational excellence_](/blog/tags/operational-excellence/), you can follow the tag for related articles after I posted more.
 
+{{< signup >}}
+
 # Learn from your Failures via blameless post-mortems
 
 True Blameless Post-Mortems are a work of art, but once you get them right and a habit, they become a powerful tool for improvement and learning.  The core idea is that when a problem occurs, it was not the fault of the human who did the wrong thing - it was the fault of the system for allowing the action to happen. 

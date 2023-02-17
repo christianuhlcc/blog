@@ -12,6 +12,8 @@ We all can benefit from being proficient at technical writing - no matter if we 
   
 Your writing will influence how you are perceived by others and how well you can influence the organization you're working in.
 
+{{< signup >}}
+
 ### Writing levels the field
 I applaud this change a lot because it allows for a very subtle power shift: Previously, most impactful decisions were made ad-hoc in in-person meetings. Within these meetings, sometimes the loudest and most aggressive people had the strongest influence. Sometimes the highest ranking people. Even more frequently, the people who were good at spontaneous persuasion had the most influence. This didn't always lead to the best ideas being the ones considered. 
 

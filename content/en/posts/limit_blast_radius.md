@@ -14,6 +14,8 @@ The metaphor of "blast radius" describes how _far_ a problem in your system trav
 
 > Everything fails, all the time. – Werner Vogels
 
+{{< signup >}}
+
 When I mean "limiting" the impact, I see 3 different dimensions in how we can contain problems within:
 * a subset of your application - only one use-case will fail, others will keep working
 * a subset of your users - for some of them a use-case will fail, for others, it will keep working

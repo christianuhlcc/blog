@@ -11,6 +11,8 @@ I loathe letting people go. Many things bring pleasure in the work of an Enginee
 
 > ***Disclaimer***: I am not a lawyer, and labor laws in Germany (and Europe) are strict and protective of Employees, for a very good reason. If you have to let someone go, please loop in your HR Department as soon as you can, they can help you getting it over smooth and legally compliant as soon as possible. You don't want to end up in labor court, no matter your net worth.
 
+{{< signup >}}
+
 {{< figure src="/blog/images/let_go.webp" attr="Photo by [Donnie Rosie](https://unsplash.com/@drosie)" alt="A cannon pointed at your face">}}
 
 This is maybe some addition to [Samir's](https://monospacedmonologues.com/2022/10/maybe-just-maybe/) post about the question: 

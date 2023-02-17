@@ -16,6 +16,8 @@ One important caveat in hypergrowth is that the split approach scales until appr
   
 This article is mostly about the human aspect of the team split and less about the HR process that accompanies it, as that part will likely be different in every company. 
 
+{{< signup >}}
+
 ## Teams are immutable
 
 Before we start with really anything about the details, let's remind ourselves that ***teams are immutable***: It happens when you add or remove people from a team, but especially when you split a team, you end up with two completely fresh teams. That also means you will need to go through the team construction process and the 4 stages (of [Tuckman](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)) again, so you need to invest into teambuilding and it will take a while until everything is productive again. 

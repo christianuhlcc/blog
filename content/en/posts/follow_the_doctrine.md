@@ -11,6 +11,7 @@ This is one of my larger learnings of the last year(s) as an Engineering Manager
 
 {{< figure src="/blog/images/doctrine.webp" attr="Photo by [Aditya Joshi](https://unsplash.com/@adijoshi11)" alt="dark shot of the Australian parliament's empty seats">}}
 
+{{< signup >}}
 
 ## Follow doctrine
 

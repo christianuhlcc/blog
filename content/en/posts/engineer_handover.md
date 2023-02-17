@@ -13,6 +13,8 @@ Having your manager change is never easy - even in the best case, you will lose 
 
 The idea behind this whole process is that the engineer becomes ***the owner of their own story***. They can decide what context gets moved over, and what can stay in the past. Usually, in handovers context was shared only between new and old managers, or none at all. I feel this way supports morale a lot more than moving people around like chess pieces - I always hated being handed over like this, especially as I had to rebuild all my standing again with my new manager.
 
+{{< signup >}}
+
 Most of these learnings come from experimenting during Personios hypergrowth phase in 2020-2022.
 
 ## The Handover Process

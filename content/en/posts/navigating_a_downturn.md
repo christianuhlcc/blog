@@ -11,6 +11,8 @@ We are right in the middle of a pretty serious economic downturn: We see big lay
 
 {{< figure src="/blog/images/downturn.webp" attr="Photo by [CHUTTERSNAP](https://unsplash.com/de/@chuttersnap)" alt="Broken ceramic">}}
 
+{{< signup >}}
+
 ## Do more with less
 
 When I first heard the term "do more with less" I found it quite confusing: What am I supposed to do with that? - I am pretty sure that I have always tried to keep "bloat" away from my teams as much as I could during the good times. So what would be now to cut? And if there was anything I could cut, shouldn't I have cut it long ago? But a changed situation changes also the lens through which we perceive reality. We can use this as a good checkpoint to reassess our strategy for the team and improve our chances for future funding. 

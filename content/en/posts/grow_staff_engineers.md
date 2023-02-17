@@ -12,6 +12,8 @@ Let's discuss how Engineering Managers can support their people on the journey t
 
 As a disclaimer, I have successfully supported people in a promotion to the "Lead Engineer" role, which in Personio is an intermediate step between Senior and Staff, and might map directly to Staff in other career frameworks. 
 
+{{< signup >}}
+
 ## Staff Engineers are diverse individuals 
 
 > Our architecture was simple until the staff engineers found out they need to have more impact.

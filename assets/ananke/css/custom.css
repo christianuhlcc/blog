@@ -1,3 +1,21 @@
 .nested-copy-line-height p {
 	font-size: 1.1rem;
 }
+
+.subscribe {
+	border:1px solid #ccc;
+	padding:3px;
+	text-align:center;
+	border-radius: .25em; 
+	background: white;
+}
+
+.subscribe input {
+	border-radius: .25em;
+	border: 1px solid;
+}
+
+#tlemail {
+	width: 60%;
+	min-width: 140px;
+}

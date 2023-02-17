@@ -13,6 +13,8 @@ As I am jumpstarting this blog, I would like to start this project with some tho
 
 We, as software professionals, like to complain a lot. Sometimes over very silly things whether you need Kubernetes and Microservices to deploy your silly app with no users, sometimes over things that do matter a lot, like how we managed to mess up the inclusion of underrepresented groups so badly. Or how we waste more energy than some major countries to move bits onto a Blockchain. In any way, we (and that includes me) usually complain about everything.
 
+{{< signup >}}
+
 But I sometimes forget how _nice_ my life is currently, and that can, to a large degree, be attributed to the salary and the working conditions I am benefitting from working in the tech industry. I'll dive a little deeper into both points later, but I want to lay out first where I started in life:
 
 I was born in a small village next to a small town in rural Bavaria, and my parents can be considered working class or "blue collar" workers. That is a pretty privileged life if you compare it to people growing up in non-western countries or active warzones - We had all we needed, good food, a house and two german cars in the ridiculous massive garage in front of the house. Unfortunately, all that life was pretty much-built razor's edge - We were not in debt (besides the mortgage), but the running expenses of a family of 4 with that lifestyle didn't leave much room for error. Unemployment was a big scare for us. This had a few nasty consequences:

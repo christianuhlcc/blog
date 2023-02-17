@@ -10,6 +10,8 @@ Software Architects and their boxes and arrows: I have enjoyed working with some
 
 What do I mean by that fuzzy term "Architecture"? Architecture is, as famously put, the part of Software Engineering that's hard to change later.[^1] As this isn't very helpful, for this Article I would suggest defining it as "Defining the Approaches, Plans and Rules how future software will be added to an existing Software Stack".
 
+{{< signup >}}
+
 {{< figure src="/blog/images/architecture.webp" attr="Photo by [Ryan Kwo](https://unsplash.com/it/@milkbox)" alt="Lighthouse in the Water ">}}
 
 ## The role of the Software Architect has lost its importance
