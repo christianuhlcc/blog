@@ -81,7 +81,7 @@ I like to consider configuration changes a separate thing compared to code chang
 {{< figure src="/blog/images/dns.webp" attr="https://www.cyberciti.biz/humour/a-haiku-about-dns/" alt="It's not DNS. There is no way it's DNS. It was DNS">}}
 
 The absolute basis for all further tips is of course to run exclusively ```Infrastructure as Code``` where every aspect of configuration is in declarative text files, that get evaluated by your platform. Besides reproducibility, this also gives you some pre-checks if your configuration changes make any sense - but that's risk reduction, not blast radius reduction. If you don't have this and still make manual changes on the CLI on prod, start with this.
-Many organizations have an environment called `staging```` that is supposed to be a replica of your production system where you can test changes, even in an automated fashion. Unfortunately, that is never the case, and these systems are subtly different and give you a false sense of safety. Usually, they drift, and especially configuration changes have different effects whether the system has real traffic, or just sits there idle on smaller machines. Do yourself a favor and kill your staging env :-)
+Many organizations have an environment called `staging`that is supposed to be a replica of your production system where you can test changes, even in an automated fashion. Unfortunately, that is never the case, and these systems are subtly different and give you a false sense of safety. Usually, they drift, and especially configuration changes have different effects whether the system has real traffic, or just sits there idle on smaller machines. Do yourself a favor and kill your staging env :-)
 
 {{< tweet user="mipsytipsy" id="1308641574448803840" >}}
 

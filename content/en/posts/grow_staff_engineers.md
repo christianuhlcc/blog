@@ -4,6 +4,7 @@ date: 2022-11-29T15:35:00+01:00
 draft: false
 featured_image: "/images/grow.webp"
 images: ["images/grow.webp"]
+tags: ["Staff"]
 ---
 
 Let's discuss how Engineering Managers can support their people on the journey toward the Staff Engineer Role. Why should we as EMs care about that? Of course, their success is your success and having staff engineers in your group lifts you up as well. But more important is that having one or more staff engineers in your group will allow you to kick in a few metaphorical technical doors toward a larger organizational impact. These are the people that can solve big and tricky problems for you. Ultimately, without them, you won't grow into a more senior manager role. I assume most "great" engineering organizations make it a career progression requirement for EMs anyway. But the growth path of someone from mid-level individual contributor towards senior is different from the growth towards staff, and we EMs get very little guidance on that.

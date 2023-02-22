@@ -22,6 +22,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+
   custom_css = ["custom.css"]
   text_color = ""
   author = "Christian Uhl"
