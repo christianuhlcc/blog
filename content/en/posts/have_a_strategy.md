@@ -1,6 +1,6 @@
 ---
 title: "Have a strategy"
-date: 2023-02-27T09:35:00+01:00
+date: 2023-02-27T08:35:00+01:00
 draft: false
 featured_image: "/images/strategy.webp"
 images: ["images/preview/strategy.jpg"]
