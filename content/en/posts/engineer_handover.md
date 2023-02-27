@@ -4,8 +4,7 @@ date: 2023-02-14T12:35:00+01:00
 draft: false
 featured_image: "/images/handover.webp"
 images: ["images/preview/handover.jpg"]
-tags: [Hypergrowth]
-tags: [People Management, Managing Managers]
+tags: [Hypergrowth, People Management, Managing Managers]
 ---
 
 Having your manager change is never easy - even in the best case, you will lose someone who was rooting for you and had your best interest in mind, only to start the whole journey anew with a stranger. Re-building a shared context and a trust relationship after a handover is significant work. I collected a few ideas from performing more than 20 handovers to make that process a bit smoother. I think these ideas are useful whether you are a manager yourself or an individual contributor getting handed over.
