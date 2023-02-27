@@ -5,6 +5,7 @@ draft: false
 featured_image: "/images/architecture.webp"
 images: ["images/preview/architecture.jpg"]
 toc: true
+tags: [Technology]
 ---
 Software Architects and their boxes and arrows: I have enjoyed working with some and suffered working against others in my career. I feel that in the majority of cases, the dedicated Role of "Software Architects" needs to be abandoned and the responsibilities need to be moved into the teams. This article outlines how this can be achieved by creating a rotating role called "Feature Owner" that enables the team to make the right local decisions and align themselves with the needs of the wider organization. 
 

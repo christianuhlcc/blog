@@ -4,6 +4,7 @@ date: 2023-02-27T08:35:00+01:00
 draft: false
 featured_image: "/images/strategy.webp"
 images: ["images/preview/strategy.jpg"]
+tags: [People Management, Managing Managers]
 ---
 
 A while ago I told one of my new Engineering Managers that I expect them to develop a strategy for their team. And oh my, were they confused by this ambiguous ask. I failed to explain this concept and my wish multiple times until we got it right, so this is both a lesson for me and for everyone else watching: 

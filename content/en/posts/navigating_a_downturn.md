@@ -5,6 +5,7 @@ draft: false
 featured_image: "/images/downturn.webp"
 images: ["images/preview/downturn.jpg"]
 toc: true
+tags: [Large Organizations]
 ---
 
 We are right in the middle of a pretty serious economic downturn: We see big layoffs at major tech companies, the stock market is on fire and all companies are switching gears. I collected some thoughts on how Engineering Managers can best navigate this downturn and adapt what we've been doing during the boom years. Let's explore good ways on how to do more with less, how to support our teams during this cycle and how we could adapt our hiring for the time to come.
