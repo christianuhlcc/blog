@@ -64,12 +64,12 @@ This process gives a lot of power to the engineers, and you might ask if there w
 
 ## Dealing with 1:1s
 
-I am definitely guilty of running 1:1s too long during a handover phase, probably rendering the new manager a lame duck for a while. I have also experienced handovers via a three-way-1:1 with both new managers present, and I found them to be the most awkward meetings of my life: A 1:1 is a trusted space, that immedately breaks to pieces if two managers are present. I avoid doing this. 
+I am definitely guilty of running 1:1s too long during a handover phase, probably rendering the new manager a lame duck for a while. I have also experienced handovers via a three-way-1:1 with both new managers present, and I found them to be the most awkward meetings of my life: A 1:1 is a trusted space, that immediately breaks to pieces if two managers are present. I avoid doing this. 
 
 I will end my 1:1 journey on the meeting before the discussed handover meeting, and then cancel any future 1:1s, to let the new manager schedule the new iteration. The running document I had stays confidential and pretty much gets archived.
 
-If you become the new skip-level leader of the engineer, I left an intentional gap of 2-3 months before setting up any skip-level 1:1s, to not interfere with the new manager and the build up of their trust relationship.
+If you become the new skip-level leader of the engineer, I left an intentional gap of 2-3 months before setting up any skip-level 1:1s, to not interfere with the new manager and the build-up of their trust relationship.
 
 [^1]:  Very often that reasoning was "I'm dying, I have more than 20 direct reports in multiple teams, and I can't focus on you and your growth properly. The new person will finally be able to do a decent job"
 
-[^2]: I keep my 1:1 notes shared with the other person - I was first skeptical becuase my note-taking can be a bit chaotic, but for situations like this it's very helpful that both can take a look back at the topics discussed
+[^2]: I keep my 1:1 notes shared with the other person - I was first skeptical because my note-taking can be a bit chaotic, but for situations like this it's very helpful that both can take a look back at the topics discussed

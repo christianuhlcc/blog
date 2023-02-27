@@ -19,3 +19,16 @@
 	width: 60%;
 	min-width: 140px;
 }
+
+.nested-copy-line-height ol {
+	font-size: 1.1rem;
+}
+
+.nested-copy-line-height ul {
+	font-size: 1.1rem;
+}
+
+.code,code  {
+	font-size: 1.1rem;
+	font-family: monospace,monospace;
+}
