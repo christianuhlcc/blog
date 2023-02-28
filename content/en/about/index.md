@@ -4,6 +4,8 @@ description: "About this blog"
 menu:
   main:
     weight: 1
+
+images: ["images/chris.webp"]
 ---
 {{< figure src="/blog/images/chris.webp" >}}
 
