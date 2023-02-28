@@ -11,7 +11,9 @@ A while ago I told one of my new Engineering Managers that I expect them to deve
 
 As an Engineering Manager, how can you develop a strategy for your team? I believe understanding this is the difference between a mediocre Engineering Manager who keeps the lights on, versus a great Engineering Manager who makes a difference.
 
-In terms of business speak, the word Strategy probably lost all meaning before I even joined the workforce. But as a working definition, we are talking about is ***a high-level plan that outlines how a long-term goal for the behaviour of the team can be reached.*** So that means, before we get all strateg-y up in here, we first need a goal. Please note that this is a much smaller thing than a complete [Engineering Strategy](https://lethain.com/engineering-strategy/), but just local to your team.
+In terms of business speak, the word Strategy probably lost all meaning before I even joined the workforce. But as a working definition, we are talking about is ***a high-level plan that outlines how a long-term goal for the behaviour of the team can be reached.*** So that means, before we get all strateg-y up in here, we first need a goal. 
+
+Please note that this is a much smaller thing than a complete [Engineering Strategy](https://lethain.com/engineering-strategy/), but just local to your team. It is also not about the raw technical execution, but about the sociotechnical setting[^5] in which the team builds Software. And it should be local to this team, fitting to the needs of the individuals and the goals at hand.
 
 {{< figure src="/blog/images/strategy.webp" attr="Photo by [Aaron Burden](https://unsplash.com/@aaronburden)" alt="Sun and fog">}}
 
@@ -115,3 +117,5 @@ Also, after you succeed - that stuff goes into your own brag document. It's easy
 [^3]: Sometimes that was just me asking "So can we release this now that $X is done? Yes? Why don't we release it then?" over and over until they got so bored of me that they started releasing
 
 [^4]: If you struggle to see the value that you add because you are not coding: Here it is. You are a multiplier now. 
+
+[^5]: Thanks to Dennis for [pointing it out](https://twitter.com/wagnerdennis/status/1630452758758170624)! 

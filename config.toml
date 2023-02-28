@@ -1,5 +1,5 @@
 title = "Christians Blog"
-baseURL = "https://uhl-steine-scherben.org/blog"
+baseURL = "https://uhl-steine-scherben.org/blog/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
