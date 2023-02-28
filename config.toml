@@ -21,8 +21,10 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
-[params]
 
+
+[params]
+  menu = ['main', 'tags']
   custom_css = ["custom.css"]
   text_color = ""
   author = "Christian Uhl"
