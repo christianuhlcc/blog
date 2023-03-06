@@ -143,6 +143,8 @@ There will be topics where you need to research something, or can't answer it ri
 
 Most of the people I work with go into these meetings with a passive mindset, but If you can find ways of reversing the ownership of the meeting, so that the reporting person drives it, it will become a lot stronger. At least for me, driving my 1-on-1 with my manager makes it a lot more useful to me. I admit I am still looking for ideas on how to turn that into reality though. If you have success there, please reach out :-) 
 
+{{< signup >}}
+
 [^1]: Special thanks go to [Laura Kirwan](https://www.linkedin.com/in/laura-kirwan/) who ran a great workshop with me and whom I learned from quite a bit. 
 
 [^2]: Unfortunately, few do so and most show up empty handed. I at least try to live by example and have talking points for my own 1-on-1 with my boss, as well as sometimes praising the people who show up prepared.
