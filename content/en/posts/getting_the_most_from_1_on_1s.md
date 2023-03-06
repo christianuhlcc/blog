@@ -13,7 +13,7 @@ People who follow me for a while might remember that I have been pretty hyped ab
 
 But that were the "simple" days when I was working with up to 7 direct reports. In the course of hypergrowth, I was at some point working with more than 25 direct reports, and to preserve my own sanity, but also try to be at least as useful as possible, I had to adapt and learn, so this article will be an updated version of what I knew then. Hopefully, I can write another, even better piece of content in 5 years.[^1]
 
-Although I try to present a long list of technical items on how to improve 1-on-1s, it won't be useful without one foundation: There is no substitute for caring for, and being interested in your fellow people.  
+Although I try to present a long list of technical items on how to improve 1-on-1s, it won't be useful without one foundation: There is no substitute for caring for another human and being interested in your fellow people.[^4]  
 
 {{< figure src="/blog/images/one_on_one.webp" attr="Two people enjoying their 1-on-1, Photo by [Alvan Nee](https://unsplash.com/ja/@alvannee)" alt="two happy puppies">}}
 
@@ -149,3 +149,4 @@ Most of the people I work with go into these meetings with a passive mindset, bu
 
 [^3]: Because noone ever pays attention during all-hands meetings, if there is something everyone absolutely positively must know, like updates to the remote working policy, I bring that.
   
+[^4: Although the cringy title and being quite outdated, the Book "How to win friends and influence People" had this nugget of wisdom: Do you want other people to think you care about them? The only convincing way is to _actually_ care about them. 
