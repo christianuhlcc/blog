@@ -151,4 +151,4 @@ Most of the people I work with go into these meetings with a passive mindset, bu
 
 [^3]: Because noone ever pays attention during all-hands meetings, if there is something everyone absolutely positively must know, like updates to the remote working policy, I bring that.
   
-[^4: Although the cringy title and being quite outdated, the Book "How to win friends and influence People" had this nugget of wisdom: Do you want other people to think you care about them? The only convincing way is to _actually_ care about them. 
+[^4]: Although the cringy title and being quite outdated, the Book "How to win friends and influence People" had this nugget of wisdom: Do you want other people to think you care about them? The only convincing way is to _actually_ care about them. 
