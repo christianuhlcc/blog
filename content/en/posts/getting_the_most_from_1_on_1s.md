@@ -101,7 +101,7 @@ My strongest learning and something I keep struggling with: Sometimes there's a 
 
 ### Topics to wiggle in
 
-In theory, the agenda is owned by the report, it's their meeting. But I found value in having a few topics that I bring every now and then, just to make sure that they get covered:
+In theory, the agenda is owned by the report, it's their meeting. But I found value in having a few topics that I bring every now and then, just to make sure that they get covered. If you are looking for more inspiration I can recommend the [Help I have a manager](https://wizardzines.com/zines/manager/) zine from Julia Evans
 
 * Career Progression
 
@@ -122,6 +122,10 @@ A bit selfish, but if I try to get a full picture about something in the team, I
 * My own current challenge: 
 
 A common, and very true, career advice is "Know what bothers your boss and make it go away". But for that, my team needs to know what's on my agenda and causing me grief. If appropriate, I share it, and sometimes I get surprised by someone picking it up and making the problem, indeed, go away.
+
+* Feedback
+
+Although we should strive to give each other feedback often and whenever it comes up, I find it helps me to have dedicated times where I need to aggregate feedback and think about it. So I try to fit some high-level feedback about how things are going in, to avoid any surprises during the performance evaluation cycle.
 
 ### Go for a walk
 
