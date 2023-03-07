@@ -26,21 +26,21 @@ For me, it is about creating trust and a safe space where topics of the individu
 
 ### Duration
 
-I don't think there is a universal rule, so as always the answer is close to "it depends". I personally prefer one hour every week with everyone. That's a pretty big time commitment, but it allows for:
+I don't think there is a universal rule, so the answer is always close to "it depends". I prefer one hour every week with everyone. That's a pretty big time commitment, but it allows for:
 
 * Recency: Since it's at max a week, everything is still fresh in memory
-* Research: I can get one question / perspective from everyone within one week, which is very useful for research
-* Relaxedness: If you have a whole hour, you can safely "warm up" and digress or allow side topics and chit chat for a bit. 
+* Research: I can get one question/perspective from everyone within one week, which is very useful for research
+* Relaxedness: If you have a whole hour, you can safely "warm up" and digress or allow side topics and chit-chat for a bit. 
 
-Once I hit a wall with too many direct reports, I chose to reduce them to 30 minutes, and kept the weekly frequency. It still works, just not as good and deep as before. I haven't experimented with 1 hour every other week yet if that's any better.
+Once I hit a wall with too many direct reports, I chose to reduce them to 30 minutes and kept the weekly frequency. It still works, just not as good and deep as before. I haven't experimented with 1 hour every other week yet to see if that's any better.
 
 ## Preparations and hygiene
 
 ### Don't skip
 
-This is of course the most obvious one, but notoriously neglected: Don't skip your 1-on-1s. Sure, there is daily business going on that tries to eat your time, and sometimes it's just not appropriate (Production is down) or possible (somebody is out sick or on vacation). In all other cases though, I strongly lean to protect my 1-on-1 time with everyone. I have politely rejected Meeting invites from VPs and other high ranking people who were carelessly booking over my slots. 
+This is of course the most obvious one but notoriously neglected: Don't skip your 1-on-1s. Sure, there is daily business going on that tries to eat your time, and sometimes it's just not appropriate (Production is down) or possible (somebody is out sick or on vacation). In all other cases though, I strongly lean to protect my 1-on-1 time with everyone. I have politely rejected Meeting invites from VPs and other high-ranking people who were carelessly booking over my slots. 
 
-I find that once you have fought for your 1-on-1s a few times, people learn that and spend time finding other slots. So it gets easier. I usually respond on slack with something like "Sorry I can't make this appointment as it conflicts with my 1-on-1 with $Person, and I really want to show up consistently for them. Can we meet at $otherTime instead?". Everyone has been reasonable so far. 
+I find that once you have fought for your 1-on-1s a few times, people learn that and spend time finding other slots. So it gets easier. I usually respond on slack with something like "Sorry I can't make this appointment as it conflicts with my 1-on-1 with $Person, and I want to show up consistently for them. Can we meet at $otherTime instead?". Everyone has been reasonable so far. 
 
 I do all this because it sends a powerful message of ***You are important to me***. Once you skip a lot to do other things instead, you send the message "You are not very high up my list of priorities", and people notice that. I think on [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) you mess with people on a pretty deep level.
 
@@ -53,7 +53,7 @@ A close second in terms of annoyance is moving the 1-on-1s around a lot, maybe m
 
 A special serving of hate goes out to tools like [reclaim](https://reclaim.ai) which automate this terrible behavior. My previous boss used it, and it felt like a rabbit was running through my calendar, and everything more than 4 hours out was unpredictable. So if you have a terrible meeting culture, use this to make things worse.
 
-Here's where I fail a lot though - I get frequently carpet-bombed with meetings that are not optional, have lots of participants and force me to readjust my schedule on the fly. Sometimes I can fight back and protect my 1-on-1s, sometimes not. If the latter's the case, I at least write the affected person a message explaining the why and ask for confirmation to meet at a different time on the same day. So far, people have been forgiving toward me.
+Here's where I fail a lot though - I get frequently carpet-bombed with meetings that are not optional, have lots of participants, and force me to readjust my schedule on the fly. Sometimes I can fight back and protect my 1-on-1s, sometimes not. If the latter's the case, I at least write the affected person a message explaining the why and ask for confirmation to meet at a different time on the same day. So far, people have been forgiving toward me.
 
 ### Find a good time slot
 
@@ -65,13 +65,13 @@ Still, it helps to re-check if the slot is still a good one every few months.
 
 ### Be on time
 
-This fits the same message of above: Are you important to your manager or not? Do they stand up for you (figuratively) in your previous meeting by insisting on stopping on time? Or do they de-prioritize you by just continuing the previous topic? 
+This fits the same message above: Are you important to your manager or not? Do they stand up for you (figuratively) in your previous meeting by insisting on stopping on time? Or do they de-prioritize you by just continuing the previous topic? 
 
 Of course, that doesn't always work, but even being conscious of that, and apologizing when you mess up, goes a long way.
 
 ### Share the doc
 
-I used to have a meeting document where I kept my notes, but I kept it to myself - mostly because the structure was confusing and everything was full of embarassing typos. As I got better with live note keeping, and with [Grammarly](https://app.grammarly.com/) to help my spelling, these reasons for caution went away. I find sharing the doc with the other person very valuable now: People can add topics beforehand[^2], and you can both look back independently. 
+I used to have a meeting document where I kept my notes, but I kept it to myself - mostly because the structure was confusing and everything was full of embarrassing typos. As I got better with live note-keeping, and with [Grammarly](https://app.grammarly.com/) to help my spelling, these reasons for caution went away. I find sharing the doc with the other person very valuable now: People can add topics beforehand[^2], and you can both look back independently. 
 
 I try not to add things that are not fully obvious to the agenda for my reports so that they don't have anxiety about an ambiguous point. 
 
