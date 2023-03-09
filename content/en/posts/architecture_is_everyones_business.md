@@ -132,6 +132,15 @@ Software Architecture isn't a purely technical concern, architecture exists to s
 
 Here's where I think one last "Architect" needs to stay: The technical executive. This would be a role equal to or comparable to the CTO: Somebody who is deeply involved in the business strategy (and knows things that aren't fully public to all employees yet). This person can and must describe the needs and demands of the software, and meaningful software architecture can be derived from this. The CTO can but doesn't have to, describe the larger outlines of the System's Architecture, but that can also be filled out by the communities of practice.  
 
+## But how do we prevent the technology zoo?
+
+A very interesting push-back I have received is, when there are no Architects, what's stopping the organization from creating a confusing technology zoo and introducing every shiny piece of alpha technology that they can find?
+
+Although I agree with the goal of not having a zoo, I think it's very questionable to carry a whole role around just to prevent organizational dysfunction: Teams shouldn't do that by themselves, without some sort of supervision. There needs to be a culture of carefulness, but also the right incentives to use boring technology to solve exciting problems. I think that part belongs to the executive team to build the right incentives and guardrails - As usual, it should be easy to do the right thing, and hard to do the wrong thing.
+
+This way, we can use these brilliant people that are currently inhabiting the Architect Role in a way more productive fashion.
+
+
 
 [^1]: I think this term originates from [Evolutionary Architectures](https://evolutionaryarchitecture.com/), but I am not fully sure - ***Update*** [Victor](https://hachyderm.io/@kontrafiktion/109706081734787670) points out it's from [Ralph Johnson on the Extreme Program-
 ming mailing list](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
