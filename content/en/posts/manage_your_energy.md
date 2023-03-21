@@ -1,7 +1,7 @@
 ---
 title: "Managing your energy"
-date: 2023-03-21T16:35:00+01:00
-draft: true
+date: 2023-03-21T15:35:00+01:00
+draft: false
 toc: false
 featured_image: "/images/voltage.webp"
 images: ["images/preview/voltage.jpg"]
