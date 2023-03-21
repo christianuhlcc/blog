@@ -11,8 +11,6 @@ Software Architects and their boxes and arrows: I have enjoyed working with some
 
 What do I mean by that fuzzy term "Architecture"? Architecture is, as famously put, the part of Software Engineering that's hard to change later.[^1] As this isn't very helpful, for this Article I would suggest defining it as "Defining the Approaches, Plans and Rules how future software will be added to an existing Software Stack".
 
-{{< signup >}}
-
 {{< figure src="/blog/images/architecture.webp" attr="Photo by [Ryan Kwo](https://unsplash.com/it/@milkbox)" alt="Lighthouse in the Water ">}}
 
 ## The role of the Software Architect has lost its importance
@@ -140,7 +138,7 @@ Although I agree with the goal of not having a zoo, I think it's very questionab
 
 This way, we can use these brilliant people that are currently inhabiting the Architect Role in a way more productive fashion.
 
-
+{{< signup >}}
 
 [^1]: I think this term originates from [Evolutionary Architectures](https://evolutionaryarchitecture.com/), but I am not fully sure - ***Update*** [Victor](https://hachyderm.io/@kontrafiktion/109706081734787670) points out it's from [Ralph Johnson on the Extreme Program-
 ming mailing list](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
