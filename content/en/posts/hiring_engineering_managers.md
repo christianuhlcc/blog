@@ -1,6 +1,6 @@
 ---
 title: "Hiring Engineering Managers"
-date: 2023-04-015T06:00+01:00
+date: 2023-04-15T08:35:00+01:00
 draft: false
 toc: true
 featured_image: "/images/hiring/hiring.webp"
