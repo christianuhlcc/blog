@@ -13,8 +13,6 @@ Let's discuss how Engineering Managers can support their people on the journey t
 
 As a disclaimer, I have successfully supported people in a promotion to the "Lead Engineer" role, which in Personio is an intermediate step between Senior and Staff, and might map directly to Staff in other career frameworks. 
 
-{{< signup >}}
-
 ## Staff Engineers are diverse individuals 
 
 > Our architecture was simple until the staff engineers found out they need to have more impact.
@@ -77,3 +75,4 @@ If you can, I suggest to connect your candidate to recently promoted staff engin
 ## Summary
 I think getting people promoted to the staff level is quite doable and clear once you have internalized that the process to get there is very different from the process to get people to the senior engineering level. Making people walk the right path, in reality is a lot more tricky. But ultimatley, it's very rewarding for both IC and EM to accomplish it. If you want to learn more, I recommend reading [this book about staff egineers](https://staffeng.com/book)
 
+{{< signup >}}
