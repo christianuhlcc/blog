@@ -8,7 +8,7 @@ images: ["images/preview/hiring.jpg"]
 tags: [Hypergrowth, Managing Managers]
 ---
 
-I hired a few excellent Engineering Managers who I'm very happy with last year. I obviously also had to interview a whole bunch more to find them. In this article, I'll summarize how I would build the best hiring process with my current knowledge after this journey to fill future open positions quickly with excellent candidates.
+I hired a few excellent Engineering Managers who I'm very happy with last year. I obviously also had to interview a whole bunch more to find them. In this article, I'll summarize how I would build the best hiring process with my current knowledge after this journey to fill future open positions quickly with excellent candidates. We will move from understanding the role in the first place to building a performant funnel and ultimately closing the candidates we really want.
 
 If you only take one thing from this: All through this journey, your Talent Acquisition peer is your best friend[^1]: They can help you move through this playbook and provide valuable input and feedback from the market out there to adapt your process. Collaborate frequently with them, and maybe help them sourcing.
 
