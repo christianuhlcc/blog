@@ -5,7 +5,7 @@ draft: false
 toc: true
 featured_image: "/images/hiring/hiring.webp"
 images: ["images/preview/hiring.jpg"]
-tags: [Hypergrowth, Managing Managers]
+tags: [Hypergrowth, Managing Managers, Hiring]
 ---
 
 I hired a few excellent Engineering Managers who I'm very happy with last year. I obviously also had to interview a whole bunch more to find them. In this article, I'll summarize how I would build the best hiring process with my current knowledge after this journey to fill future open positions quickly with excellent candidates. We will move from understanding the role in the first place to building a performant funnel and ultimately closing the candidates we really want.
