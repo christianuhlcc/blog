@@ -81,6 +81,7 @@ I think I improved the most when I was shadowed by a peer, who gave me valuable 
 
 Another option you could do is to run practice / mock interviews with peers: Here you can train some interesting situations - At Personio we do training sessions where the mock candidate gets a secret "twist" (e.g. "always give ambiguous answers" or "try to go off-tangent and talk about unrelated stuff", "use super short 2 word answers") and the mock interviewer has to reign them in to still get a meaningful interview assessment out of the interview. 
 
+{{< signup >}}
 
 [^1]: You might also just be searching for a poor victim that you can PIP away next performance cycle to meet your stack ranking quote, but that's not the world I am operating in.
 
