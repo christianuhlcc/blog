@@ -6,6 +6,7 @@ toc: true
 tags: [Hiring]
 featured_image: "/images/interviewing.webp"
 images: ["images/preview/interviewing.jpg"]
+aliases : ['/posts/being_a_great_interviewer.md']
 ---
 
 Interviewing is a learned skill - for both the interviewee and the interviewer. The stakes for candidates are higher, but the interview's outcome is majorly influenced by how it is conducted by the interviewer. Moderating Interviews well and making them a fun experience is a great way to hire great talent and also a solid contribution to employer branding. Sitting on the candidate chair myself the amount of information interviewers could learn about me was often limited by how they conducted the interview. Spoiler: "Let's just have a chat and see where it's going" is a pretty risky way to do things and I think we Interviewers need to have a higher bar. 
