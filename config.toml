@@ -1,9 +1,8 @@
 title = "Christians Blog"
 baseURL = "https://uhl-steine-scherben.org/blog/"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
-
+theme = "ananke"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
